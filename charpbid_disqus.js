@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="charpbidcom";
+var disqus_shortname="charpbid";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
