@@ -1,4 +1,4 @@
-var disqus_shortname="charpbid";
+var disqus_shortname="kompiajaib";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
